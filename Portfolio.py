@@ -1,14 +1,7 @@
-""" !/usr/bin/env python3 """
 """
-Stock Portfolio Tracker
------------------------
-Goal : Calculate total investment based on manually defined stock prices.
-Scope: - User inputs stock names and quantity.
-       - Hardcoded dictionary defines stock prices.
-       - Displays total investment value.
-       - Optionally saves the result to a .txt or .csv file.
 
-Key concepts: dictionary, input/output, basic arithmetic, file handling.
+Stock Portfolio Tracker
+
 """
 
 import csv
